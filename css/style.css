@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+.parent {
+    margin: 185px auto;
+    width: 225px;
+    height: 365px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+img {
+    width: 205px;
+    height: 205px;
+    border-radius: 10px;
+    margin: 8px 2px;
+}
+
+p {
+    margin: 5px;
+}
+
+.one {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin: 19px;
+    font-size: 15px;
+}
+
+.two {
+    margin: 5px;
+   font-size: 15px;
+   color:  hsl(220, 15%, 55%);
+   font-weight: 400;
+
+}
